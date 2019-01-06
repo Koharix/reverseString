@@ -19,8 +19,8 @@ println str
 def words = str.split(" ")
 str = ""
 
-words.eachWithIndex { word, i ->
-    str = str + word.reverse() + " "
+words.each {
+    str = str + it.reverse() + " "
 }
 
 str = str.substring(0, str.size() -1)
