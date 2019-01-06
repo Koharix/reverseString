@@ -13,8 +13,7 @@
 
 def str = "A TECH COMPANY IS THE FUTURE"
 
-println "Initial String:"
-println str
+println "Initial String:\n" + str
 
 def words = str.split(" ")
 str = ""
@@ -25,6 +24,4 @@ words.each {
 
 str = str.substring(0, str.size() -1)
 
-println ""
-println "Reversed String:"
-println str
+println "\nReversed String:\n" + str
