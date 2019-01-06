@@ -1,6 +1,6 @@
 /*
- I wanted to get back to you with an appropriate solution to the code sample. I believe in built practical solutions like
- helper functions, libraries, frameworks, etc to rapidly produce lightweight and human-readable code.
+ I wanted to get back to you with an appropriate solution to the code sample. I believe in implementing built practical solutions 
+ like helper functions, libraries, frameworks, etc to rapidly progress with stable, lightweight, and human-readable code.
 
  Spent ~10 minutes writing then optimizing this script.
  
