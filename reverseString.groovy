@@ -6,9 +6,10 @@
  
  Hope you don't mind I wrote it in groovy.
  
- The other link is to a python service I wrote that checks the PUBG api for updates and inserts said updates into a google sheets
- spreadsheet. This is an example of the kind of api experience I have when dealing with http calls. The project is currently being
- refactored to the PEP 8 coding style (reason for different naming conventions within the project).
+ The PubgArchiver repo is an open source python project I wrote which makes http calls to the PUBG api for stat updates and inserts
+ said updates into a google sheets spreadsheet based off config & authentication files. This is one example of my RESTful api 
+ experience. The project is currently being refactored to the PEP 8 coding style (reason for different naming conventions within 
+ the project).
 */
 
 def str = "A TECH COMPANY IS THE FUTURE"
