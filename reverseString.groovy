@@ -2,7 +2,7 @@
  I wanted to get back to you with a better solution to the code sample. I believe in implementing built practical solutions 
  like helper functions, libraries, frameworks, etc to rapidly produce stable, lightweight, and human-readable code.
 
- Spent ~10 minutes writing then optimizing this script.
+ Spent ~5 minutes writing then >5 minutes optimizing this script.
  
  Hope you don't mind I wrote it in groovy.
  
