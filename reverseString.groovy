@@ -4,7 +4,8 @@
 
  Spent ~5 minutes writing then >5 minutes optimizing this script.
  
- Hope you don't mind I wrote it in groovy.
+ Hope you don't mind I wrote it in groovy. After some thought I may have more groovy experience than java experience though 
+ the knowledge is largely transferable.
  
  The PubgArchiver repo is an open source python project I wrote which makes http calls to the PUBG api for stat updates and 
  inserts said updates into a google sheets spreadsheet based off config & authentication files. This is one example of my RESTful
